@@ -1,4 +1,4 @@
-pymuddy will be a mud client implementing the GMCP protocol
+pymuder will be a mud client implementing the GMCP protocol
 
 For the moment, I have the following implemented:
  * The skeleton for handling messages from the server
